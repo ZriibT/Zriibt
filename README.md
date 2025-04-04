@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 Electronics Student | 🛡️ Cybersecurity Enthusiast | 🐧 Linux Explorer
 
-Hello! I'm Mr. Zarbout — an electronics student with a strong curiosity for technology, cybersecurity, and open-source tools. I'm passionate about understanding how systems work from the circuit board to the command line.
+Hello! I'm Saif Eddine AKA (" Zarbout ") — an electronics student with a strong curiosity for technology, cybersecurity, and open-source tools. I'm passionate about understanding how systems work from the circuit board to the command line.
 
 💡 **Interests & Focus Areas:**
 - Cybersecurity fundamentals & ethical hacking
